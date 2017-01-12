@@ -4,7 +4,7 @@ We are seeking a talented Computer Programmer, with good knowledge of native iOS
 
 ## Required qualifications:
 
-- Bachelor’s degree and 5 years of Information Services experience with at least 3 years in mobile technologies
+- Bachelor degree and at least 2 years of information services job experience, preferably with mobile technologies.
 - Strong technical proficiency in the following technologies: iOS SDK, Web Services including RESTful, JSON/XML.
 - Ability to work independently and multitask on separate projects.
 - Knowledge of IOS SDK, AWS (Amazon web services), Responsive Design strongly preferred
