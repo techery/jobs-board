@@ -1,6 +1,4 @@
 @import "{{ site.theme }}";
 
-.page-header {
-  background-color: #1B3D6B;
-  background-image: #1B3D6B;
-}
+$header-bg-color: #1B3D6B;
+$header-bg-color-secondary: #1B3D6B;
