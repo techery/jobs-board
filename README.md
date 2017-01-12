@@ -10,6 +10,7 @@ We are seeking a talented Computer Programmer, with knowledge of native iOS deve
 - Knowledge of IOS SDK, AWS (Amazon web services), Responsive Design strongly preferred.
 - Strong analytical skills and problem solving ability, as well as excellent verbal, written and interpersonal skills.
 
+
 ## Responsibilities:
 
 - UI developing using iOS SDK.
@@ -17,7 +18,9 @@ We are seeking a talented Computer Programmer, with knowledge of native iOS deve
 - Participation in code review process.
 
 
+
 ### Salary: $65000
+
 
 ### Hours: 9:00AM-5:00PM, Monday-Friday.
 
