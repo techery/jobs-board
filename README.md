@@ -6,15 +6,15 @@ We are seeking a talented Computer Programmer, with knowledge of native iOS deve
 
 - Bachelor degree and at least 2 years of information services job experience, preferably with mobile technologies.
 - Strong technical proficiency in the following technologies: iOS SDK, Web Services including RESTful, JSON/XML.
-- Ability to multitask
-- Knowledge of IOS SDK, AWS (Amazon web services), Responsive Design strongly preferred
-- Strong analytical skills and problem solving ability, as well as excellent verbal, written and interpersonal skills
+- Ability to multitask.
+- Knowledge of IOS SDK, AWS (Amazon web services), Responsive Design strongly preferred.
+- Strong analytical skills and problem solving ability, as well as excellent verbal, written and interpersonal skills.
 
 ## Responsibilities:
 
-- UI developing using iOS SDK
-- Unit test developing
-- Participation in code review process
+- UI developing using iOS SDK.
+- Unit test developing.
+- Participation in code review process.
 
 
 ### Salary: $65000
@@ -22,4 +22,4 @@ We are seeking a talented Computer Programmer, with knowledge of native iOS deve
 ### Hours: 9:00AM-5:00PM, Monday-Friday.
 
 
-If you're interested in joining our team, please contact us at jobs@techery.io
+*If you're interested in joining our team, please contact us at jobs@techery.io*
