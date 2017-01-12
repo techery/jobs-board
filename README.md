@@ -10,7 +10,7 @@ We are seeking a talented Computer Programmer, with knowledge of native iOS deve
 - Knowledge of IOS SDK, AWS (Amazon web services), Responsive Design strongly preferred.
 - Strong analytical skills and problem solving ability, as well as excellent verbal, written and interpersonal skills.
 
-
+--
 ### Salary: $65000
 
 
