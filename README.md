@@ -11,14 +11,6 @@ We are seeking a talented Computer Programmer, with knowledge of native iOS deve
 - Strong analytical skills and problem solving ability, as well as excellent verbal, written and interpersonal skills.
 
 
-## Responsibilities:
-
-- UI developing using iOS SDK.
-- Unit test developing.
-- Participation in code review process.
-
-
-
 ### Salary: $65000
 
 
