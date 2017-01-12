@@ -5,7 +5,7 @@ Weare seeking a talented Mobile Programmer, with good knowledge of native iOS de
 ## Required qualifications:
 
 - Bachelor’s degree and 5 years of Information Services experience with at least 3 years in mobile technologies
-- Strong technical proficiency in the following technologies: Android SDK, Cordova, React JS, HTML5, JavaScript, jQuery, CSS3, Web Services including RESTful, JSON/XML, SQL Server, Eclipse, MS Office
+- Strong technical proficiency in the following technologies: iOS SDK, Web Services including RESTful, JSON/XML.
 - Ability to work independently and multitask on separate projects.
 - Knowledge of IOS SDK, AWS (Amazon web services), Responsive Design strongly preferred
 - Strong analytical skills and problem solving ability, as well as excellent verbal, written and interpersonal skills
