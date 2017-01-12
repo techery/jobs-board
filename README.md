@@ -12,7 +12,7 @@ We are seeking a talented Computer Programmer, with knowledge of native iOS deve
 - Strong analytical skills and problem solving ability, as well as excellent verbal, written and interpersonal skills.
 
 
-### Salary: $65000
+### Salary: $65,000/year
 
 
 ### Hours: 9:00AM-5:00PM, Monday-Friday.
