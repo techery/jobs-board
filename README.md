@@ -1,4 +1,4 @@
-# Mobile Programmer
+# iOS Programmer
 
 Weare seeking a talented Mobile Programmer, with good knowledge of native iOS development. In this position, while working with a team of software developers, you will participate in the creation of new apps along with upgrade, expansion and support of our Native iOS and hybrid Applications.
 
