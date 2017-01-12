@@ -11,6 +11,8 @@ $header-bg-color-secondary: #1B3D6B;
   background-image: none !important;
 }
 
+.main-content {
+  h1,
   h2,
   h3,
   h4,
@@ -18,3 +20,4 @@ $header-bg-color-secondary: #1B3D6B;
   h6 {
     color: #1B3D6B !important;
   }
+}
